@@ -1,0 +1,16 @@
+.bg{
+    background-color: rgba(0, 0, 0, 0.212);
+}
+.bg2{
+    background-color: rgba(255, 255, 255, 0.55);
+}
+.bg3{
+    background-image:  url(./images/amg.jpg);
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: goldenrod; */
+}
+.shadowx{
+    filter: drop-shadow(1px 1px 20px goldenrod);
+}

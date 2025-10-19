@@ -2,7 +2,7 @@ import React from 'react'
 import Car2 from "../images/Car2.png"
 import Car3 from "../images/Car3.svg"
 import {motion} from "framer-motion"
-import { fadeIn } from '../TheatrJs/TheatreScene'
+// import { fadeIn } from '../TheatrJs/TheatreScene'
 function Test1() {
     
   return (
